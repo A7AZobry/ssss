@@ -1,0 +1,14 @@
+                                       <h6 class="text-muted font-weight-bolder">Time remaining</h6>
+                                        <h3 class="mb-0">5 days</h3>
+                                    </div>
+                                    <div>
+                                        <h6 class="text-muted font-weight-bolder">Proxies</h6>
+                                        <h3 class="mb-0">1 000</h3>
+                                    </div>
+                                    <div>
+                                        <h6 class="text-muted font-weight-bolder">Maximum authenticated IPs</h6>
+                                        <h3 class="mb-0">3</h3>
+                                    </div>
+                                </div><a type="button" class="btn btn-success waves-effect waves-float waves-light mt-1" href="/datacenter-shared/customize">Upgrade account</a></div>
+                        </div>
+                    </div><div class="col-lg-4 col-md-12"><div class="card">            
